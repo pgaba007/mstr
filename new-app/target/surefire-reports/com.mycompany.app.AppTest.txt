@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.mycompany.app.AppTest
--------------------------------------------------------------------------------
-<<<<<<< HEAD:new-app/target/surefire-reports/com.mycompany.app.AppTest.txt
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec - in com.mycompany.app.AppTest
-=======
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.021 sec - in com.mycompany.app.AppTest
->>>>>>> a38144145512b45c239c6f799a455b355aca6f65:my-app/target/surefire-reports/com.mycompany.app.AppTest.txt
